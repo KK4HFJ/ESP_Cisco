@@ -136,7 +136,7 @@ void onTelnetInput(String str) {
     telnet.disconnectClient();  
   } else {
     //telnet.println(str);
-    Serial2.print(str);
+    Serial2.println(str);
     delay(10);
   }
 }

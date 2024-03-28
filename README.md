@@ -17,9 +17,14 @@ Max3232 RS232 In -> RJ45 pin 3
 
 # Parts
 RS232 to TTL - https://amzn.to/4azSUd5
+
 I2C LCD - https://amzn.to/4a2Z8m5
+
 ESP32 - https://amzn.to/3TUfxU7
+
 Lithium Charger / 5v booster module - https://amzn.to/4ac3bwx
+
 Lithium battery (6ah) - https://amzn.to/3TA5ger
+
 
 

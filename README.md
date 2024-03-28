@@ -5,7 +5,7 @@ Telnet into a ESP with the IP address (displayed on the LCD), and access a conne
 
 Based on ESPTelnet library at https://github.com/LennartHennigs/ESPTelnet/
 
-Still needs some work, as the Cisco prompts are doubled. Is completely functional.
+Sketch is completely functional.
 
 ESP32 RX2 -> Max3232 TTL TX1
 

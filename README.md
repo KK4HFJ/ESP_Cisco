@@ -1,4 +1,4 @@
-# ESP_Cisco
+# ESP_Cisco (WiFi Telnet Gateway)
  WiFi Remote Console Interface
 
 Telnet into a ESP with the IP address (displayed on the LCD), and access a connected Cisco switch. Uses a MAX3232 TTL to RS232 converter.

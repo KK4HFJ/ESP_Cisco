@@ -1,0 +1,9 @@
+# Local WiFi credentials (see esp32_telnet/secrets.example.h)
+esp32_telnet/secrets.h
+
+# Build output / editor clutter
+build/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
